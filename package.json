@@ -1,0 +1,24 @@
+{
+  "name": "trans",
+  "version": "1.0.0",
+  "description": "My outstanding Nuxt.js project",
+  "author": "elpeyotl",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "cross-env": "^5.2.0",
+    "gsap": "^2.0.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.10.0",
+    "nodemon": "^1.11.0",
+    "sass-loader": "^7.1.0"
+  }
+}
